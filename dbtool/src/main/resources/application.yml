@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: dbtool
+server:
+  port: 8081
